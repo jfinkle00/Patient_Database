@@ -76,6 +76,4 @@ View Statistics → See what % of men/women have anemia/diabetes
 👨‍💻 Author
 Developed by Jason Finkle for educational purposes on OOP and data management in Python.
 
-📜 License
-This project is open-source under the MIT License.
 
